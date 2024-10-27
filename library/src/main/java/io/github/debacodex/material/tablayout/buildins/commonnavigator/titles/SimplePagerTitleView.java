@@ -6,6 +6,7 @@ import android.graphics.Rect;
 import android.text.TextUtils;
 import android.view.Gravity;
 import android.widget.TextView;
+import android.support.v4.widget.TextViewCompat;
 
 import io.github.debacodex.material.tablayout.buildins.UIUtil;
 import io.github.debacodex.material.tablayout.buildins.commonnavigator.abs.IMeasurablePagerTitleView;
