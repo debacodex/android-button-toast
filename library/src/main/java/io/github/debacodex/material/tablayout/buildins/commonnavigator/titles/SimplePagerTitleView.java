@@ -10,12 +10,6 @@ import android.widget.TextView;
 import io.github.debacodex.material.tablayout.buildins.UIUtil;
 import io.github.debacodex.material.tablayout.buildins.commonnavigator.abs.IMeasurablePagerTitleView;
 
-
-/**
- * 带文本的指示器标题
- * 博客: http://hackware.lucode.net
- * Created by hackware on 2016/6/26.
- */
 public class SimplePagerTitleView extends TextView implements IMeasurablePagerTitleView {
     protected int mSelectedColor;
     protected int mNormalColor;
